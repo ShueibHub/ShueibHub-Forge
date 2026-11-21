@@ -30,7 +30,7 @@ An Android utility for working with Android keystores and app signing.
 - No advertising, in-app purchases, or private application servers.
 - Uses GitHub to check for update information.
 
-**Project links:** [Updates & Releases](https://github.com/ShueibHub/ShueibHub-Forge/releases/download/1.0/KeyForge-v1.0.apk)
+**download link:** [Keyforge-v1.0](https://github.com/ShueibHub/ShueibHub-Forge/releases/download/1.0/KeyForge-v1.0.apk)
 
 <div align="center">
   <img src="keyforge_preview_1.png" alt="KeyForge screenshot 1" width="24%">
