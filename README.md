@@ -14,6 +14,7 @@
 [![Projects: 2](https://img.shields.io/badge/Projects-2-FF6B1A?style=for-the-badge)](#projects)
 [![Privacy-conscious](https://img.shields.io/badge/Privacy-Conscious-1F6FEB?style=for-the-badge)](#approach)
 [![GitHub: @ShueibHub](https://img.shields.io/badge/GitHub-%40ShueibHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShueibHub)
+[![YouTube: @ShueibHub](https://img.shields.io/badge/YouTube-%40ShueibHub-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ShueibHub)
 
 <br>
 
@@ -76,6 +77,9 @@ Selected apps from the Forge — practical tools, kept simple.
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Version](https://img.shields.io/badge/Version-v1.0-FF6B1A?style=flat-square)
 ![Type](https://img.shields.io/badge/Type-Keyboard-1F6FEB?style=flat-square)
+![Ads](https://img.shields.io/badge/Ads-None-2EA043?style=flat-square)
+![In-app purchases](https://img.shields.io/badge/In--app_purchases-None-2EA043?style=flat-square)
+![Private servers](https://img.shields.io/badge/Private_servers-None-2EA043?style=flat-square)
 
 - ⌨️ **Symbols at your fingertips** — convenient access to programming symbols and characters.
 - 💻 **Built for developers** — designed with developers and programmers in mind.
@@ -143,6 +147,7 @@ Other repositories and experiments are available on the [ShueibHub GitHub profil
 
 - 🐙 **GitHub:** [@ShueibHub](https://github.com/ShueibHub)
 - 📦 **Projects:** [All Repositories](https://github.com/ShueibHub?tab=repositories)
+- 📺 **YouTube:** [@ShueibHub](https://www.youtube.com/@ShueibHub)
 - 💬 **Feedback:** found a bug or have an idea? [Open an issue](https://github.com/ShueibHub/ShueibHub-Forge/issues).
 
 ---
@@ -212,6 +217,9 @@ Other repositories and experiments are available on the [ShueibHub GitHub profil
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Version](https://img.shields.io/badge/Version-v1.0-FF6B1A?style=flat-square)
 ![Type](https://img.shields.io/badge/Type-Keyboard-1F6FEB?style=flat-square)
+![Ads](https://img.shields.io/badge/Ads-None-2EA043?style=flat-square)
+![In-app purchases](https://img.shields.io/badge/In--app_purchases-None-2EA043?style=flat-square)
+![Private servers](https://img.shields.io/badge/Private_servers-None-2EA043?style=flat-square)
 
 - ⌨️ **الرموز في متناول يدك** — وصول سريع إلى الرموز والمحارف البرمجية.
 - 💻 **مبنية للمطورين** — مصممة لتلبية احتياجات المبرمجين والمطورين.
@@ -278,6 +286,7 @@ Other repositories and experiments are available on the [ShueibHub GitHub profil
 
 - 🐙 **GitHub:** [@ShueibHub](https://github.com/ShueibHub)
 - 📦 **المشاريع:** [جميع المستودعات](https://github.com/ShueibHub?tab=repositories)
+- 📺 **YouTube:** [@ShueibHub](https://www.youtube.com/@ShueibHub)
 - 💬 **الملاحظات:** هل وجدت خطأً أو لديك فكرة؟ [افتح Issue](https://github.com/ShueibHub/ShueibHub-Forge/issues).
 
 </div>
